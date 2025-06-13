@@ -57,7 +57,7 @@ function FriendshipForm({ onSubmitSuccess }) {
     <div className="form-container">
       <div className="form-box">
         <div className="form-header">
-          <h2>📖 Friendship Diary</h2>
+          <h2>Friendship Diary For Dealulu</h2>
           <p>Share a special memory with me!</p>
         </div>
 
